@@ -1,0 +1,2 @@
+
+let saldo = 0;
